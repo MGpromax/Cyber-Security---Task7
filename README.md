@@ -9,9 +9,9 @@ Scope & Tools
 - Evidence: screenshots (before/after), list of extensions audited, notes on permissions, actions taken
 
 What this repo contains
-- `task7/procedure.md` — detailed, step‑by‑step auditing and removal process
-- `task7/findings.md` — template to record suspicious/unused extensions and actions
-- `task7/interview-qa.md` — concise answers to likely interview questions
+- `procedure.md` — detailed, step‑by‑step auditing and removal process
+- `findings.md` — template to record suspicious/unused extensions and actions
+- `interview-qa.md` — concise answers to likely interview questions
 
 Executive Summary (fill after your audit)
 - Environment: [Chrome/Firefox versions]
@@ -30,12 +30,4 @@ Method Summary
 Safety and Privacy
 - Do not share personal data in screenshots. Redact emails, profile names, and private URLs.
 - Only install from official stores. Avoid sideloading CRX/XPI from unknown sites.
-
-How to reproduce
-- Follow `task7/procedure.md` on your system. Capture before/after screenshots of extension lists and task manager metrics.
-
-Submission
-- Add your screenshots to a `screenshots/` folder.
-- Update `task7/findings.md` with your actual results.
-- Commit and push to a new GitHub repo, then submit the repo link in your portal.
 
